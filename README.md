@@ -1,0 +1,1 @@
+A webpage using Tailwind CSS, which showcases various components such as cards, a form, and a header. During the development process, I enhanced my understanding of Tailwind CSS through dedicated learning and with Scrimba course.
